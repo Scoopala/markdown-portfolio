@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](http://github.com/Scoopala/markdown-portfolio/edit/add-images-links/_includes/03-links.md?pr=%2FScoopala%2Fmarkdown-portfolio%2Fpull%2F3)
